@@ -1,0 +1,36 @@
+.blue {
+	background-color: #72C5CD;
+	transform: rotate(74deg);
+	right: 350px;
+	bottom: 260px;
+	opacity: 0.9;
+}
+
+.yellow {
+	background-color: #DFA22F;
+	transform: rotate(-15deg);
+	bottom: 210px;
+	right: 250px;
+}
+
+.green {
+	background-color: #3CB187;
+	transform: rotate(-15deg);
+	bottom: 160px;
+	right: 400px;
+}
+
+.red {
+	background-color: #CE1E5B;
+	transform: rotate(74deg);
+	right: 310px;
+	bottom: 110px;
+	opacity: 0.9;
+}
+
+.stick {
+	height: 400px;
+	width: 80px;
+	border-radius: 40px;
+	position: absolute;
+}
